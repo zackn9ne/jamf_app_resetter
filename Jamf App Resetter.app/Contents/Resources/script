@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "" > ~/Library/Preferences/com.jamfsoftware.jss.plist
+exit 0
